@@ -69,6 +69,7 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=subhanjan_dutta)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
