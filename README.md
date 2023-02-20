@@ -72,6 +72,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
