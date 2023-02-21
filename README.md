@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Subhanjan Dutta</h1>
 <h3 align="center">I'm a Developer & a Graphics Desinger who is always curious to learn and try something new</h3>
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Developer+and+Graphics+Designer;Always+curious+about+learning+new+things&center=true&width=500&height=50">
 
 
 - Pre-Final Year CSE Undergrad Student
@@ -21,7 +21,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me
 <p align="left">
-<a href="https://twitter.com/subhanjan_dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhanjan_dutta" height="30" width="40" /></a>
+<a href="https://twitter.com/subhanjan_dutta" target="blank"><img align="center" src="./icons/Social/twitter.svg" alt="subhanjan_dutta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subhanjan-dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhanjan-dutta" height="30" width="40" /></a>
 <a href="https://fb.com/subhanjandutta0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhanjandutta0" height="30" width="40" /></a>
 <a href="https://instagram.com/_subhanjan_dutta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_subhanjan_dutta_" height="30" width="40" /></a>
