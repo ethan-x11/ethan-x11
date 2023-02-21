@@ -12,6 +12,9 @@
     - KolkataFOSS
     - Flutter Forward 
     - Cloud Community Days Kolkata 2023 >> Graphics Team
+- Contributor @
+  - Superteam
+  - HacktoberFest 2022
 
 ##
 
