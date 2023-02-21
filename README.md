@@ -21,7 +21,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me
 <p align="left">
-<a href="https://twitter.com/subhanjan_dutta" target="blank"><img align="center" src="./icons/Social/twitter.svg" alt="subhanjan_dutta" height="30" width="40" /></a>
+<a href="https://twitter.com/subhanjan_dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/ethan-x11/ethan-x11/blob/master/icons/Social/twitter.svg" alt="subhanjan_dutta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subhanjan-dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhanjan-dutta" height="30" width="40" /></a>
 <a href="https://fb.com/subhanjandutta0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhanjandutta0" height="30" width="40" /></a>
 <a href="https://instagram.com/_subhanjan_dutta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_subhanjan_dutta_" height="30" width="40" /></a>
