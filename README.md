@@ -4,7 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=00F7D3&center=true&width=435&lines=Computer+Science+Engineering+Student;Developer+and+Graphics+Designer;Always+curious+about+learning+new+things;Discovering+new+possibilities)](https://linktr.ee/subhanjan)
 
 
-- Final Year CSE Undergrad Student
+- System Engineer(AI CoE) @ TCS
+- B.Tech CSE(2024)
 - Volunteer @
     - Cloud Community Days Kolkata 2022 >> Graphics Team
     - DevFest Kolkata 2022 >> Graphics Team
