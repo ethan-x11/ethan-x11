@@ -5,6 +5,7 @@
 
 
 - System Engineer(AI CoE) @ TCS
+- Building OmniChatKit
 - B.Tech CSE(2024)
 - Volunteer @
     - Cloud Community Days Kolkata 2022 >> Graphics Team
