@@ -130,5 +130,5 @@
 
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=See%20Ya!!!&section=footer&reversal=true&textBg=false&animation=twinkling&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&fontAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=See%20Ya!!!&section=footer&reversal=true&textBg=false&animation=twinkling&fontAlignY=50&fontColor=494949&fontSize=50"  />
 </div>
