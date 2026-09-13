@@ -1,3 +1,6 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&theme=cobalt"  />
+</div>
 
 ###
 
@@ -30,11 +33,6 @@
 <a href="https://linkedin.com/in/subhanjan-dutta" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/62725955/220275585-bf60c95b-1c63-4ecc-bcd0-513b5bef4c5a.svg" alt="subhanjan-dutta" height="30" width="40" /></a>
 <a href="https://instagram.com/_subhanjan_dutta_" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/62725955/220276154-fcc43aa0-d0fb-4835-8036-49877b0a9d50.svg" alt="_subhanjan_dutta_" height="30" width="40" /></a>
 </p>
-
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&width=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" height="32"> Programming languages & Tools
