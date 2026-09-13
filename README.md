@@ -2,29 +2,42 @@
 
 ###
 
-<h1 data-importer="text" align="center">hi 👋</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ###
 
-<h4 data-importer="text" align="left">I'm a Developer & a Graphics Desinger who is always curious to learn and try something new</h4>
+<h3 align="left">I'm a Developer & a Graphics Desinger who is always curious to learn and try something new</h3>
 
 ###
 
-<p data-importer="text" align="left">- System Engineer(AI CoE) @ TCS<br>- Building OmniChatKit<br>- B.Tech CSE(2024)</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=00F7D3&center=true&width=435&lines=Computer+Science+Engineering+Student;Developer+and+Graphics+Designer;Always+curious+about+learning+new+things;Discovering+new+possibilities)](https://linktr.ee/subhanjan)
 
 ###
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+- System Engineer(AI CoE) @ TCS
+- Building OmniChatKit
+- B.Tech CSE(2024)
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<!-- ## -->
 
-###
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me
+<p align="left">
+<a href="https://twitter.com/subhanjan_dutta" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/62725955/220274597-ce5bc7f6-ec98-4fb0-908a-ccf39552c294.svg" alt="subhanjan_dutta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subhanjan-dutta" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/62725955/220275585-bf60c95b-1c63-4ecc-bcd0-513b5bef4c5a.svg" alt="subhanjan-dutta" height="30" width="40" /></a>
+<a href="https://instagram.com/_subhanjan_dutta_" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/62725955/220276154-fcc43aa0-d0fb-4835-8036-49877b0a9d50.svg" alt="_subhanjan_dutta_" height="30" width="40" /></a>
+</p>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" height="32"> Programming languages & Tools
+
+
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -74,9 +87,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-###
 
-<h3 data-importer="text" align="left">🛠 Graphics & Audio Design Tools</h3>
+### 💫Graphics & Audio Design Tools
 
 ###
 
@@ -101,3 +113,11 @@
 </picture>
 
 ###
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Meme
+<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
