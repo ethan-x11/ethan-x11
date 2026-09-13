@@ -16,7 +16,6 @@
 
 - System Engineer(AI CoE) @ TCS
 - Building OmniChatKit
-- B.Tech CSE(2024)
 
 ###
 
