@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">I'm a Developer & a Graphics Desinger who is always curious to learn and try something new</h3>
+<h3 align="left">I'm a Developer & a Graphics Designer who is always curious to learn and try something new</h3>
 
 ###
 
