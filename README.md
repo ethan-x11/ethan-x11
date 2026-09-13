@@ -13,7 +13,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=00F7D3&center=true&width=435&lines=Computer+Science+Engineering+Student;Developer+and+Graphics+Designer;Always+curious+about+learning+new+things;Discovering+new+possibilities)](https://linktr.ee/subhanjan)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=00F7D3&center=true&width=435&lines=FullStack+Developer+and+Graphics+Designer;Curious+mind;Discovering+new+possibilities)](https://linktr.ee/subhanjan)
 
 ###
 
