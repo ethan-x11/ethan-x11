@@ -11,9 +11,8 @@
 - System Engineer(AI CoE) @ TCS
 - Building OmniChatKit
 - B.Tech CSE(2024)
-##
 
-<p align="left"> <a href="https://twitter.com/subhanjan_dutta" target="blank"><img src="https://img.shields.io/twitter/follow/subhanjan_dutta?logo=twitter&style=for-the-badge" alt="subhanjan_dutta" /></a> </p>
+###
 
 <!-- ## -->
 
