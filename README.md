@@ -106,6 +106,11 @@
 
 ###
 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me
+
+
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ethan-x11/ethan-x11/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ethan-x11/ethan-x11/pacman-output/pacman-contribution-graph.svg?game=pacman">
