@@ -3,7 +3,7 @@
 ###
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">I'm a Developer & a Graphics Desinger who is always curious to learn and try something new</h3>
+<h3 align="left">I'm a Developer & a Graphics Desinger who is always curious to learn and try something new</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=00F7D3&center=true&width=435&lines=Computer+Science+Engineering+Student;Developer+and+Graphics+Designer;Always+curious+about+learning+new+things;Discovering+new+possibilities)](https://linktr.ee/subhanjan)
 
